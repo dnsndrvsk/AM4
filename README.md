@@ -1,1 +1,1 @@
-# AM4 - Static website
+# AM4 - static website
